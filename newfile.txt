@@ -1,0 +1,4 @@
+
+1.volmes -- Docker directory it will store --- /var/lib/docker/volumes/_data
+2.bind mount -- Host level store
+3.tmpfs -- temprory directory created in container 
